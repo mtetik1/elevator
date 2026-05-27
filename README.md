@@ -1,4 +1,4 @@
-# DES using numpy for elevator capacity scenarios in high rise construction projects
+# DES using simpy for elevator capacity scenarios in high rise construction projects
 A simple discrete-event simulation model for exploring elevator capacity scenarios in high rise construction projects.
 The model simulates worker movements between the ground floor and different floor zones during a construction workday. It includes time-dependent arrival patterns, elevator travel time, boarding and unloading time, and stochastic variation between simulation runs.
 
